@@ -14,6 +14,8 @@ The video should show both arrays, including the index, the element, the sum, an
 
 **Your demo:** _add your link here_
 
+https://www.loom.com/share/2c44c35475984608b30e5c6de80b2a76
+
 
 ## What to build
 
